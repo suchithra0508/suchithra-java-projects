@@ -1,0 +1,14 @@
+Develop a program to perform serialization and deserializatiom
+Difference between Collection and collections?
+Why we need default abstract methods
+Write a program a append a string data into a file
+Write a program to clone an object using clonable interface
+if equals() method is not there in Strung BUffer then can i check contents of the string
+Prcatcice programs
+Even or odd
+Prime
+amstrong
+pailndrome
+fibanocci
+perfect
+oops programs

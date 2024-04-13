@@ -1,0 +1,1 @@
+Develop a jdbc appliction for both select insert update delete(ddl and dll)
